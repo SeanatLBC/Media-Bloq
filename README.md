@@ -6,6 +6,6 @@ Visit the Website: https://www.mediabloq.io/
 
 Download a Wallet (IOS):  https://testflight.apple.com/join/quN7m3lr
 
-Catch Coins watching this video:  <iframe title="vimeo-player" src="https://player.vimeo.com/video/360855778" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+Catch Coins watching this video:  https://player.vimeo.com/video/360855778
 
 Catch Coins watching this video: https://vimeo.com/360853347
